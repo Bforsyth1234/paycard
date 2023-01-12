@@ -1,0 +1,20 @@
+{
+    "name": "ScanCard",
+    "version": "1.0.0",
+    "description": "Amtrak Scan Card Custom Plugin",
+    "cordova": {
+      "id": "amtrak-scan-card",
+      "platforms": [
+        "android",
+        "ios"
+      ]
+    },
+    "keywords": [
+        "ecosystem:cordova",
+        "cordova-android",
+        "cordova-ios"
+    ],
+    "author": "Amtrak Dev",
+    "license": "MIT"
+  }
+  
